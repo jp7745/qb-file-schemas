@@ -1,4 +1,14 @@
-# qb-file-schemas
+Here’s an updated version of the README that reflects the archived status of the repository and provides the new location for the schemas:
+
+---
+
+# qb-file-schemas (ARCHIVED)
+
+**This repository is archived and is no longer actively maintained. Schema development has been moved to: [https://github.com/zapatacomputing/qb-gsee-benchmark/tree/main/instances/schemas](https://github.com/zapatacomputing/qb-gsee-benchmark/tree/main/instances/schemas)**
+
+---
+
+## Original README Content
 
 Proposed JSON schemas for Quantum Benchmarking file exchange.  This repository contains *only* the schemas.  
 The actual `problem_instance` files are in a few other places:
